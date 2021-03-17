@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-ts-tailwindcss",
+  "version": "1.0.0",
+  "description": "Static Nuxt.js starter project with TailwindCSS and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt dev",
+    "generate": "nuxt generate"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@nuxt/types": "^2.15.3",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/tailwindcss": "^4.0.1",
+    "@tailwindcss/jit": "^0.1.1",
+    "nuxt": "^2.15.3",
+    "nuxt-property-decorator": "^2.9.1",
+    "postcss": "^8.2.8",
+    "ts-loader": "^8.0.18",
+    "typescript": "^4.2.3"
+  }
+}
