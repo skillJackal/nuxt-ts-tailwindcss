@@ -16,7 +16,7 @@ $ yarn install
 - **generate**: launches Nuxt.js generate-process
 
 ## Tutorial
-Tutorial [here](https://skilljackal.com/nuxt-ts-tailwindcss/) at [skilljackal.com](https://skilljackal.com)
+Tutorial [here](https://skilljackal.com/article/nuxt-ts-tailwindcss/) at [skilljackal.com](https://skilljackal.com)
 
 ## License
 MIT
